@@ -1,0 +1,17 @@
+## .NET
+bin/
+obj/
+*.user
+.vs/
+
+## CDK
+cdk.out/
+ApiForge.Cdk/cdk.context.json
+
+## Env / secrets (never commit)
+.env
+*.local.json
+appsettings.*.Local.json
+
+## OS
+.DS_Store

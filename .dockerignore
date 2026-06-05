@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
+**/cdk.out/
+ApiForge.Tests/
+ApiForge.Cdk/
+*.md
+.git/
+.gitignore
+docker-compose.yml

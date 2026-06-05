@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ApiForge.Api/ApiForge.Api.csproj" />
+  <Project Path="ApiForge.Cdk/ApiForge.Cdk.csproj" />
+  <Project Path="ApiForge.Tests/ApiForge.Tests.csproj" />
+</Solution>
